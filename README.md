@@ -4,6 +4,16 @@ Aniweather is a simple console weather application that features cute ASCII art 
 
 This project is just for fun and was not developed carefully.
 
+# Prerequisites
+
+You need to have the `requests` library installed. You can install it using pip. Run the following command in your terminal:
+
+```bash
+pip install requests
+```
+
+Make sure you have Python and pip installed on your system before running the command.
+
 ## Installation
 
 To install Aniweather, follow these steps:
