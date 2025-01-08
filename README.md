@@ -45,7 +45,7 @@ To install Aniweather, follow these steps:
 You can now run Aniweather from anywhere in your terminal by simply typing:
 
 ```bash
-./aniweather.py <city>
+aniweather.py <city>
 ```
 
 Replace `<city>` with the name of the city you want to check the weather for.
