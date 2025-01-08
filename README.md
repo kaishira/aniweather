@@ -4,6 +4,8 @@ Aniweather is a simple console weather application that features cute ASCII art 
 
 This project is just for fun and was not developed carefully.
 
+<img width="691" alt="Screenshot 2025-01-08 at 03 30 19" src="https://github.com/user-attachments/assets/04acbb81-213d-4081-a989-b4411b597ce9" />
+
 # Prerequisites
 
 You need to have the `requests` library installed. You can install it using pip. Run the following command in your terminal:
